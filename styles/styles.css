@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.colorful-text {
+    color: #3498db;
+ /* font color */
+ text-align: center;
+}
+
+.content {
+    font-family: 'Times New Roman', serif;
+ /* font family */
+    color: #e74c3c;
+ /* font color */
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.header-div {
+    background-color: #cc922e83;
+ /* green background */
+    padding: 10px;
+    text-align: center;
+}
+
+.main-div {
+    margin-left: 0;
+ /* positioned div */
+    left: 50px;
+ /* styled position */
+    color: #34495e;
+ /* font color */
+}
+
+.footer-div {
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #472e0536;
+ /* orange background */
+    color: white;
+ /* font color */
+    text-align: center;
+}
+.guitarvideo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.guitarimage {
+    text-align: center;
+    justify-content: center;
+}
+.backgroundcolor {
+    background-color: burlywood;
+}
